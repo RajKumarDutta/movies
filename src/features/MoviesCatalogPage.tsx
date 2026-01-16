@@ -62,7 +62,7 @@ const MoviesCatalogPage = () => {
     <div className="page-layout">
       <div className="header-section">
         <div className="title-group">
-          <h1 className="title">Inventory Catalog</h1>
+          <h1 className="title">Movies Catalog</h1>
           <p className="subtitle">Real-time Movie Stock Levels</p>
         </div>
         
