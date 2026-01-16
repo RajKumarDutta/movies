@@ -1,8 +1,8 @@
-# 🎬 Inventory Catalog: High-Performance Movie Dashboard
+# 🎬 Movie Catalog: High-Performance Movie Dashboard
 
 A professional-grade, real-time movie inventory dashboard built with **React 19**, **TypeScript**, and **Vite**. This project demonstrates the implementation of **DOM Virtualization**, **Advanced Memoization**, and **Glassmorphic UI/UX** design principles.
 
-![Inventory Catalog Screenshot](/src/assets/movie_search_catalog.png)
+![Movie Catalog Screenshot](/src/assets/movie_search_catalog.png)
 
 ## 🚀 Key Technical Claims
 
